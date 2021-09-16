@@ -1,8 +1,8 @@
 <div class="description" style="display: inline_block">
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Vulttur</h1>
     <a href="https://github.com/vulttur">
-     <img src="https://github-readme-stats.vercel.app/api?username=volTzWRLD&show_icons=true&theme=dark" alt="nota"height=200px>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltzWRLD&layout=Demo&theme=dark" alt="top language" height=200px>
+     <img src="https://github-readme-stats.vercel.app/api?username=vulttur&show_icons=true&theme=dark" alt="nota"height=200px>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulttur&layout=Demo&theme=dark" alt="top language" height=200px>
     </a>
 </div>
 <br>
