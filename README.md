@@ -2,7 +2,7 @@
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Joao Manieri</h1>
     <a href="https://github.com/JoaoManierii">
      <img src="https://github-readme-stats.vercel.app/api?username=JoaoManierii&show_icons=true&theme=dark" alt="nota"height=200px>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManierii&layout=Demo&theme=dark" alt="top language" height=200px>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManierri&layout=compact" alt="top language" height=200px>
     </a>
 </div>
 <br>
