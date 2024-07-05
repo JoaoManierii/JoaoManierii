@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
    </a>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f14978a9-41db-422f-b3d4-c8542f8893e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 <br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f14978a9-41db-422f-b3d4-c8542f8893e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div class="social networks" style="display: inline_block">
   <a href="https://github.com/JoaoManierii"><img align=right   src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" height= 130px></a>
   <h2>🔍 Social Networks</h2>
