@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
    </a>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f14978a9-41db-422f-b3d4-c8542f8893e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 <br>
 <div class="social networks" style="display: inline_block">
