@@ -35,7 +35,7 @@
 
 <div class="social networks" style="display: inline_block">
   <h2>🔍 Social Networks</h2>
-  <a href="https://discord.gg/5ewNCQRTNk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/vulttur"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCttSxoZyTNagwiMFB7KQnrg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.twitch.tv/vulttur"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://open.spotify.com/user/manieri54320"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
