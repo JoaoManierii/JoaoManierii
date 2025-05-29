@@ -45,6 +45,6 @@
 
 <div class="snake game">
    <a href="https://github.com/JoaoManierii">
-      <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake game">
+      ![Snake animation](https://github.com/joaomanieri/joaomanieri/blob/output/github-contribution-grid-snake.svg)
    </a>
 </div>
