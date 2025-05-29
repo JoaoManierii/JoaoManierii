@@ -42,9 +42,5 @@
   <a href="https://www.instagram.com/joaomanieri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br>
-
-<div class="snake game">
-   <a href="https://github.com/JoaoManierii">
       ![Snake animation](https://github.com/joaomanieri/joaomanieri/blob/output/github-contribution-grid-snake.svg)
-   </a>
 </div>
