@@ -42,5 +42,5 @@
   <a href="https://www.instagram.com/joaomanieri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br>
-![Snake animation](https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/output/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/output/dist/github-snake-dark.svg)
 </div>
