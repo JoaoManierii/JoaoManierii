@@ -16,6 +16,8 @@
 <img src="https://skillicons.dev/icons?i=azure" />
 <img src="https://skillicons.dev/icons?i=cloudflare" />
 <img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=nginx" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://skillicons.dev/icons?i=grafana" />
 <img src="https://skillicons.dev/icons?i=linux" />
