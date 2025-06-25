@@ -1,4 +1,4 @@
-<div class="description" style="display: inline_block">
+<div class="description" style="display: inline_block"; align="center">
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Joao Manieri</h1>
     <a href="https://github.com/JoaoManierii">
      <img src="https://github-readme-stats.vercel.app/api?username=JoaoManierii&show_icons=true&theme=dark" alt="stats" height="180px">
@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<div class="languages" style="display: inline_block">
+<div class="languages" style="display: inline_block"; align="center">
   <h2>📚Languages</h2>
   <a href="https://github.com/JoaoManierii">
  <img src="https://skillicons.dev/icons?i=aws" />
@@ -39,7 +39,7 @@
 </div>
 <br>
 
-<div class="social networks" style="display: inline_block">
+<div class="social networks" style="display: inline_block"; align="center">
   <h2>🔍 Social Networks</h2>
   <a href="https://discord.gg/vulttur"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCttSxoZyTNagwiMFB7KQnrg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
