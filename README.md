@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=gcp" />
 <img src="https://skillicons.dev/icons?i=azure" />
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=rancher" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=cloudflare" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://skillicons.dev/icons?i=argo" />
