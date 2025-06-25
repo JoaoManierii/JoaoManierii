@@ -27,6 +27,9 @@
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=vue" />
+<img src="https://skillicons.dev/icons?i=nestjs" />
+<img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=html" />
@@ -35,6 +38,7 @@
 <img src="https://skillicons.dev/icons?i=wasm" />
 <img src="https://skillicons.dev/icons?i=ai" />
 <img src="https://skillicons.dev/icons?i=git" />
+      
   </a>
 </div>
 <br>
