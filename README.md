@@ -10,35 +10,45 @@
 <div class="languages" style="display: inline_block"; align="center">
   <h2>📚Languages</h2>
   <a href="https://github.com/JoaoManierii">
- <img src="https://skillicons.dev/icons?i=aws" />
+ <!-- ☁️ Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=gcp" />
 <img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=cloudflare" />
+<img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://skillicons.dev/icons?i=grafana" />
-<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=javascript" />
+
+<!-- 🧠 Linguagens e Ciência de Dados / IA -->
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=ai" />
 <img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=vue" />
-<img src="https://skillicons.dev/icons?i=nestjs" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=wasm" />
 <img src="https://skillicons.dev/icons?i=haskell" />
 <img src="https://skillicons.dev/icons?i=lua" />
-<img src="https://skillicons.dev/icons?i=wasm" />
-<img src="https://skillicons.dev/icons?i=ai" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
+
+<!-- 🗄️ Bancos de Dados -->
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<!-- ⚙️ Backend e Fullstack -->
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nestjs" />
+
+<!-- 💻 Frontend -->
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=vue" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+
+<!-- 🔧 Controle de Versão -->
 <img src="https://skillicons.dev/icons?i=git" />
-      
   </a>
 </div>
 <br>
