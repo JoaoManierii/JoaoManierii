@@ -37,6 +37,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 <!-- ⚙️ Backend e Fullstack -->
+<img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=nestjs" />
 
@@ -45,6 +46,7 @@
 <img src="https://skillicons.dev/icons?i=vue" />
 <img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=css" />
 
 <!-- 🔧 Controle de Versão -->
