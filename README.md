@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=cloudflare" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
-<img src="https://skillicons.dev/icons?i=argo" />
+<img src="https://skillicons.dev/icons?i=grafana" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=javascript" />
