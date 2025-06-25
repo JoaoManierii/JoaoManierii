@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=haskell" />
 <img src="https://skillicons.dev/icons?i=lua" />
 <img src="https://skillicons.dev/icons?i=wasm" />
-<img src="https://skillicons.dev/icons?i=openai" />
+<img src="https://skillicons.dev/icons?i=ai" />
 <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </div>
