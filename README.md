@@ -1,5 +1,5 @@
 <div class="description" style="display: inline_block"; align="center">
-    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 20px; alt="hello"> Hi, I’m Joao Manieri</h1>
+    <h1> Hi, I’m Joao Manieri</h1>
     <a href="https://github.com/JoaoManierii">
      <img src="https://github-readme-stats.vercel.app/api?username=JoaoManierii&show_icons=true&theme=dark" alt="stats" height="180px">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManierii&layout=compact&theme=dark" alt="top language" height="180px">
