@@ -21,8 +21,6 @@
 <img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://skillicons.dev/icons?i=grafana" />
 <img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=yarn" />
-
 <!-- 🧠 Linguagens e Ciência de Dados / IA -->
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=ai" />
@@ -30,7 +28,6 @@
 <img src="https://skillicons.dev/icons?i=haskell" />
 <img src="https://skillicons.dev/icons?i=lua" />
 <img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=java" />
 
 <!-- 🗄️ Bancos de Dados -->
