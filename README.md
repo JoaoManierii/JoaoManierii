@@ -66,8 +66,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
+    srcset="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/github-breakout/images/breakout-dark.svg"
   />
+  <img alt="Breakout Game Dark" src="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/github-breakout/images/breakout-dark.svg" />
 </picture>
-<img src="https://github.com/JoaoManierii/JoaoManierii/blob/main/dist/github-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
+<!-- <img src="https://github.com/JoaoManierii/JoaoManierii/blob/main/dist/github-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
+ -->
 </div>
