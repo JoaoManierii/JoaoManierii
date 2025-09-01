@@ -63,5 +63,11 @@
   <a href="https://www.instagram.com/joaomanieri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
+  />
+</picture>
 <img src="https://github.com/JoaoManierii/JoaoManierii/blob/main/dist/github-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
