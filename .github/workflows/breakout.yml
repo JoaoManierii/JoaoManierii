@@ -45,7 +45,7 @@ jobs:
 
 # on:
 #   schedule:
-#     - cron: "0 0 * * *"  # executa diariamente.
+#     - cron: "0 0 * * *"  # executa diariamente. 
 #   workflow_dispatch:     # permite rodar manualmente.
 
 # jobs:
