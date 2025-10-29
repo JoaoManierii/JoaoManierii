@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=css" />
 
-<!-- 🔧 Controle de Versão -->
+<!-- 🔧 Controle de Versão  -->
 <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </div>
