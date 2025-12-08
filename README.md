@@ -10,7 +10,7 @@
 <div class="languages" style="display: inline_block"; align="center">
   <h2>📚Languages and tools</h2>
   <a href="https://github.com/JoaoManierii">
- <!-- ☁️ Cloud & DevOps -->
+ <!--  ☁️ Cloud & DevOps -->
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=gcp" />
 <img src="https://skillicons.dev/icons?i=azure" />
