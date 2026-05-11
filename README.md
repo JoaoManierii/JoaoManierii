@@ -2,7 +2,6 @@
     <h1> Hi, I’m Joao Manieri</h1>
     <a href="https://github.com/JoaoManierii">
      <img src="https://github-readme-stats.vercel.app/api?username=JoaoManierii&show_icons=true&theme=dark" alt="stats" height="180px">
-     [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoManierii&show_icons=true&theme=radical)
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoManierii&layout=compact&theme=dark" alt="top language" height="180px">
     </a> 
 </div>
