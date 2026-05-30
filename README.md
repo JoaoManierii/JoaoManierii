@@ -3,6 +3,22 @@
 </div>
 <br>
 
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoManierii&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E4E4ED&dates=8888A4" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoManierii&theme=tokyonight" alt="GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoManierii&theme=tokyonight" alt="Top languages by repo" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoManierii&theme=tokyonight" alt="GitHub stats summary" />
+</div>
+<br>
+
 <div class="languages" style="display: inline_block"; align="center">
   <h2>📚Languages and tools</h2>
   <a href="https://github.com/JoaoManierii">
@@ -58,25 +74,6 @@
   <a href="https://open.spotify.com/user/manieri54320"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.instagram.com/joaomanieri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-<br>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoManierii&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E4E4ED&dates=8888A4" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoManierii&theme=tokyonight" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoManierii&theme=tokyonight" alt="Top languages by repo" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoManierii&theme=tokyonight" alt="GitHub stats summary" />
-</div>
-
 <br>
 
 <div align="center">
