@@ -59,13 +59,22 @@
   <a href="https://www.instagram.com/joaomanieri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/github-breakout/images/breakout-dark.svg"
-  />
-  <img alt="Breakout Game Dark" src="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/github-breakout/images/breakout-dark.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</div>
 <!-- <img src="https://github.com/JoaoManierii/JoaoManierii/blob/main/dist/github-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
  -->
 </div>
