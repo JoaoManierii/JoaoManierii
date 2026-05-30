@@ -3,6 +3,24 @@
 </div>
 <br>
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/main/dist/github-stats-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/main/dist/github-stats.svg"
+    />
+    <img
+      alt="Joao Manieri GitHub stats"
+      src="https://raw.githubusercontent.com/JoaoManierii/JoaoManierii/main/dist/github-stats.svg"
+    />
+  </picture>
+</div>
+<br>
+
 <div class="languages" style="display: inline_block"; align="center">
   <h2>📚Languages and tools</h2>
   <a href="https://github.com/JoaoManierii">
