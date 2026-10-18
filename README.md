@@ -19,12 +19,7 @@
 <img src="https://skillicons.dev/icons?i=linux" />
 <!-- 🧠 Linguagens e Ciência de Dados / IA -->
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=ai" />
 <img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://skillicons.dev/icons?i=haskell" />
-<img src="https://skillicons.dev/icons?i=lua" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=java" />
 
 <!-- 🗄️ Bancos de Dados -->
 <img src="https://skillicons.dev/icons?i=postgres" />
@@ -32,18 +27,10 @@
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 <!-- ⚙️ Backend e Fullstack -->
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=nestjs" />
 
 <!-- 💻 Frontend -->
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=vue" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=css" />
-
 <!-- 🔧 Controle de Versão -->
 <img src="https://skillicons.dev/icons?i=git" />
   </a>
